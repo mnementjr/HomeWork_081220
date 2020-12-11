@@ -1,0 +1,18 @@
+body {
+    background-size: cover;
+    background: url(back.png) no-repeat fixed center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+div {
+    opacity: 0.7;
+    background: darkslateblue;
+    padding: 5px;
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+}
